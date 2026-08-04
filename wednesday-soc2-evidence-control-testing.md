@@ -14,57 +14,54 @@
 
 ## Overview
 
-This assignment focused on preparing the audit evidence required for a SOC 2 Type II examination. Unlike a Type I audit, a Type II audit verifies that security controls operated effectively over a defined period rather than simply confirming that they were designed correctly. I learned the difference between **design effectiveness** and **operating effectiveness**, along with how auditors use **population and sample testing** to evaluate control performance.
+This project focused on preparing the audit evidence required for a SOC 2 Type II examination. The objective was to understand how auditors verify that security controls operate effectively over time instead of simply confirming that they exist. I explored the concepts of design effectiveness, operating effectiveness, audit evidence collection, and population and sample testing. The assignment also emphasized organizing evidence in a structured manner to support audit readiness and continuous compliance.
 
 ---
 
 ## Key Activities
 
-- Built a SOC 2 evidence matrix for six key security controls.
-- Defined the operating frequency for each control.
-- Identified the evidence required over a three-month audit period.
-- Documented the auditor's sample selection process.
-- Defined the passing criteria for each tested control.
+- Reviewed six key SOC 2 security controls from the readiness assessment.
+- Defined how often each control should operate.
+- Identified the audit evidence required over a three-month review period.
+- Determined how auditors select representative samples for testing.
+- Documented the criteria used to determine whether each control passes an audit.
 
 ---
 
 ## Evidence Matrix Summary
 
-| Control | Frequency | Main Evidence |
-|----------|-----------|---------------|
-| Multi-Factor Authentication (MFA) | Continuous | Authentication logs, MFA configuration, enrollment records |
-| User Access Reviews | Quarterly | Access review reports, approvals, permission lists |
-| Security Monitoring | Daily | SIEM alerts, investigation tickets, analyst notes |
-| Backup & Recovery | Daily / Monthly | Backup logs, recovery test reports |
-| Change Management | Per Change | Change requests, approvals, deployment records |
-| Security Awareness Training | Quarterly | Training reports, attendance records, phishing results |
+| Control | Frequency | Primary Evidence |
+|----------|-----------|------------------|
+| Multi-Factor Authentication | Continuous | Authentication logs, MFA configuration |
+| User Access Reviews | Quarterly | Access review reports and approvals |
+| Security Monitoring | Daily | SIEM alerts and investigation records |
+| Backup & Recovery | Daily / Monthly | Backup logs and recovery test reports |
+| Change Management | Per Change | Change requests and deployment records |
+| Security Awareness Training | Quarterly | Training completion reports and attendance records |
 
 ---
 
 ## Key Concepts Learned
 
-- SOC 2 Type II operating effectiveness
-- Design effectiveness vs. operating effectiveness
-- Audit evidence collection
-- Population and sample testing
-- Evidence matrix development
-- Control testing methodology
-- Continuous compliance
-- Audit readiness
+- SOC 2 Type II audits evaluate operating effectiveness over time.
+- Design effectiveness confirms a control is properly designed.
+- Operating effectiveness confirms the control consistently works.
+- Auditors test a representative sample instead of every record.
+- Well-organized evidence supports successful audit readiness.
 
 ---
 
 ## Skills Demonstrated
 
 - SOC 2 audit preparation
-- Compliance documentation
-- Audit evidence management
+- Evidence management
 - Security control validation
-- Risk and compliance reporting
+- Compliance documentation
+- Audit reporting
 - Technical documentation using Markdown
 
 ---
 
 ## Conclusion
 
-This assignment strengthened my understanding of how organizations prepare for a SOC 2 Type II audit by maintaining reliable evidence over time. Creating an evidence matrix demonstrated how security controls are validated through documentation, sampling, and continuous monitoring. These practices improve audit readiness and help organizations maintain a mature and effective compliance program.
+Completing this project improved my understanding of how organizations prepare for a SOC 2 Type II audit through effective evidence collection and control testing. Organizing evidence, defining sampling methods, and documenting control performance are essential practices for demonstrating compliance and maintaining a mature security program.
