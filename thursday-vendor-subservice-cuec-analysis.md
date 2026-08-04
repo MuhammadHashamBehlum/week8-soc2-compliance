@@ -1,4 +1,4 @@
-# Thursday — Vendor & Sub-Service Organization Management in SOC 2
+# Vendor & Sub-Service Organization Management in SOC 2
 
 ---
 
