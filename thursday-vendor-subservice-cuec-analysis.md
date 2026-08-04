@@ -2,17 +2,10 @@
 
 ---
 
-## Prepared By:
-
-*Mohammad Hesham Wazir Ali Behlum*
-
-*Bachelor of Science in Cybersecurity*
-
-*Rochester Institute of Technology (RIT) Dubai*
-
-*Final-Year Student*
-
-<br>
+**Prepared By:** Mohammad Hesham Wazir  
+**University:** Rochester Institute of Technology (RIT) Dubai  
+**Program:** Bachelor of Science in Cybersecurity  
+**Internship:** Sohail Smart Solutions Summer Training Program 2026  
 
 ## Submission Date: 7 August 2026
 
