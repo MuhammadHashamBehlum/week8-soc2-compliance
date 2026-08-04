@@ -10,39 +10,39 @@
 
 ---
 
-## Overview
+# Overview
 
-This repository contains my **Week 8 SOC 2 Compliance** assignments completed during the Sohail Smart Solutions Summer Training Program 2026.
+This repository contains my completed **Week 8 – SOC 2 Compliance** assignments for the Sohail Smart Solutions Summer Training Program 2026.
 
-The work continues the fictional **EduTrack Learning Solutions** SaaS scenario used throughout the internship. It applies SOC 2 concepts to a realistic cloud-based organization and builds on the ISO/IEC 27001 governance, audit evidence, cloud security, risk management, and compliance controls developed during previous weeks.
+The work continues the fictional **EduTrack Learning Solutions** SaaS environment used throughout the internship. Building upon previous work in ISO/IEC 27001, cloud security, governance, risk management, and audit readiness, this week's assignments focus on implementing and assessing the **SOC 2 Trust Services Criteria (TSC)** within a modern cloud-based organization.
 
-The assignments focus on the **SOC 2 Trust Services Criteria**, control scoping, framework crosswalks, readiness assessments, audit evidence, control testing, vendor management, and dual-framework compliance.
+The repository demonstrates practical Governance, Risk, and Compliance (GRC) activities including framework mapping, readiness assessments, audit evidence collection, vendor risk management, control testing, and unified compliance across multiple security frameworks.
 
 ---
 
-## Week 8 Progress
+# Week 8 Progress
 
 | Day | Assignment | Status |
 |-----|------------|:------:|
-| Monday | SOC 2 Framework Foundations – The Trust Services Criteria in Practice | ✅ |
-| Tuesday | Control Gap Analysis Against SOC 2 – Readiness Assessment | ⏳ |
-| Wednesday | Evidence & Control Testing – Building the SOC 2 Audit Evidence Package | ⏳ |
-| Thursday | Vendor & Sub-Service Organization Management in SOC 2 | ⏳ |
-| Friday | Dual-Framework Compliance Report – ISO 27001 + SOC 2 Unified View | ⏳ |
+| Monday | SOC 2 Framework Foundations – The Trust Services Criteria in Practice | ✅ Completed |
+| Tuesday | Control Gap Analysis Against SOC 2 – Readiness Assessment | ✅ Completed |
+| Wednesday | Evidence & Control Testing – Building the SOC 2 Audit Evidence Package | ✅ Completed |
+| Thursday | Vendor & Sub-Service Organization Management in SOC 2 | ✅ Completed |
+| Friday | Dual-Framework Compliance Report – ISO/IEC 27001 + SOC 2 Unified View | ✅ Completed |
 
 ---
 
-## Repository Contents
+# Repository Contents
 
-- Monday – SOC 2 Framework Foundations & Trust Services Criteria
-- Tuesday – SOC 2 Readiness Assessment & Control Gap Analysis
-- Wednesday – SOC 2 Audit Evidence & Control Testing
-- Thursday – Vendor & Sub-Service Organization Management
-- Friday – ISO/IEC 27001 + SOC 2 Unified Compliance Report
+- **Monday:** SOC 2 Framework Foundations – The Trust Services Criteria in Practice
+- **Tuesday:** Control Gap Analysis Against SOC 2 – Readiness Assessment
+- **Wednesday:** Evidence & Control Testing – Building the SOC 2 Audit Evidence Package
+- **Thursday:** Vendor & Sub-Service Organization Management in SOC 2
+- **Friday:** Dual-Framework Compliance Report – ISO/IEC 27001 + SOC 2 Unified View
 
 ---
 
-## Key Concepts
+# Key Concepts Covered
 
 - SOC 2
 - Trust Services Criteria (TSC)
@@ -55,35 +55,40 @@ The assignments focus on the **SOC 2 Trust Services Criteria**, control scoping,
 - SOC 2 Type II
 - ISO/IEC 27001
 - Governance, Risk, and Compliance (GRC)
+- Unified Control Framework
 - Framework Crosswalk
-- SaaS Security
+- Control Mapping
+- Control Gap Analysis
 - Audit Evidence
-- Continuous Control Monitoring
-- Vendor Risk Management
 - Control Testing
+- Continuous Control Monitoring (CCM)
+- Vendor Risk Management
+- Sub-service Organizations
+- Cloud Security
 - Compliance Readiness
 
 ---
 
-## Skills Demonstrated
+# Skills Demonstrated
 
-- SOC 2 Scoping
-- Trust Services Criteria Selection
+- SOC 2 Framework Implementation
+- Trust Services Criteria Assessment
 - ISO/IEC 27001 to SOC 2 Crosswalk
 - Compliance Gap Analysis
-- Control Mapping
-- Audit Evidence Planning
+- Security Control Mapping
+- Audit Evidence Collection
 - Control Testing
 - Vendor Risk Assessment
-- Cloud Compliance
-- Continuous Monitoring
+- Third-Party Risk Management
+- Cloud Governance
+- Continuous Compliance Monitoring
 - Audit Readiness
-- GRC Documentation
-- Multi-Framework Compliance
+- Executive Compliance Reporting
+- Multi-Framework Compliance Management
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 ```text
 week8-soc2-compliance/
@@ -91,31 +96,48 @@ week8-soc2-compliance/
 ├── README.md
 ├── monday-soc2-framework-foundations.md
 ├── tuesday-soc2-readiness-assessment.md
-├── wednesday-soc2-evidence-testing.md
-├── thursday-soc2-vendor-management.md
-└── friday-dual-framework-compliance.md
+├── wednesday-soc2-evidence-control-testing.md
+├── thursday-vendor-subservice-cuec-analysis.md
+└── friday-dual-framework-compliance-report.md
 ```
 
 ---
 
-## Goal
+# Learning Outcomes
 
-The objective of this repository is to document my practical SOC 2 compliance work completed during **Week 8** of the Sohail Smart Solutions Summer Training Program.
+By completing these assignments, I gained practical experience in:
 
-Using the fictional **EduTrack Learning Solutions** SaaS environment, the assignments demonstrate how a GRC analyst applies the SOC 2 Trust Services Criteria, performs control mapping, identifies compliance gaps, prepares audit evidence, evaluates third-party service providers, and integrates SOC 2 with ISO/IEC 27001.
-
-By the end of the week, this repository will represent a complete SOC 2 readiness engagement aligned with industry best practices for modern cloud-based organizations.
-
----
-
-## Final Remarks
-
-This repository represents the successful completion of the **Week 8 SOC 2 Compliance** module during the Sohail Smart Solutions Summer Training Program 2026.
-
-Across five connected assignments, the project demonstrates how SOC 2 can be implemented within a SaaS environment while building upon the ISO/IEC 27001 governance work completed during previous weeks.
-
-Together, these reports illustrate practical governance, risk management, compliance, audit readiness, and framework crosswalk skills that are commonly required in professional GRC roles.
+- Understanding the SOC 2 Trust Services Criteria and their business application.
+- Performing SOC 2 readiness assessments and identifying compliance gaps.
+- Planning audit evidence collection and evaluating control effectiveness.
+- Managing vendor and sub-service organization risk.
+- Mapping ISO/IEC 27001 controls to SOC 2 requirements through a unified compliance approach.
+- Preparing executive-level compliance documentation and remediation recommendations.
 
 ---
 
-*This repository contains coursework completed as part of the Sohail Smart Solutions Summer Training Program 2026. EduTrack Learning Solutions is a fictional organization created solely for educational purposes.*
+# Project Summary
+
+This repository represents a complete SOC 2 compliance engagement for the fictional **EduTrack Learning Solutions** SaaS organization.
+
+The assignments follow a logical progression:
+
+1. Understanding the SOC 2 framework.
+2. Assessing organizational readiness.
+3. Collecting and validating audit evidence.
+4. Evaluating third-party and vendor controls.
+5. Integrating ISO/IEC 27001 and SOC 2 into a unified compliance program.
+
+Together, these deliverables demonstrate practical Governance, Risk, and Compliance (GRC) skills that align with industry practices used by auditors, consultants, and compliance professionals.
+
+---
+
+# Final Remarks
+
+Week 8 successfully extends the governance and compliance work completed throughout the internship by focusing on SOC 2 implementation and audit readiness.
+
+The repository demonstrates how multiple compliance frameworks can be managed efficiently through shared security controls, consistent documentation, and continuous improvement practices. It highlights the importance of governance, risk management, audit evidence, vendor oversight, and unified compliance in protecting cloud-based services and customer information.
+
+---
+
+*This repository contains coursework completed as part of the Sohail Smart Solutions Summer Training Program 2026. EduTrack Learning Solutions is a fictional organization created solely for educational and training purposes.*
