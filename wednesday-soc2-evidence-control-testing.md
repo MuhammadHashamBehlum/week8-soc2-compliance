@@ -1,4 +1,4 @@
-# Wednesday — Evidence & Control Testing: Building the SOC 2 Audit Evidence Package
+# Evidence & Control Testing: Building the SOC 2 Audit Evidence Package
 
 **Prepared By:** Mohammad Hesham Wazir  
 **University:** Rochester Institute of Technology (RIT) Dubai  
