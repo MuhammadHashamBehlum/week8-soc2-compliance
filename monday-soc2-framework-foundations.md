@@ -1,14 +1,9 @@
 # SOC 2 Framework Foundations — The Trust Services Criteria in Practice
 
-**Prepared By:** Mohammad Hesham Wazir Ali Behlum
-
-**University:** Rochester Institute of Technology (RIT) Dubai
-
-**Program:** Bachelor of Science in Cybersecurity
-
-**Internship:** Sohail Smart Solutions Summer Training Program 2026
-
-**Submission Date:** 27 July 2026
+**Prepared By:** Mohammad Hesham Wazir  
+**University:** Rochester Institute of Technology (RIT) Dubai  
+**Program:** Bachelor of Science in Cybersecurity  
+**Internship:** Sohail Smart Solutions Summer Training Program 2026  
 
 ---
 
