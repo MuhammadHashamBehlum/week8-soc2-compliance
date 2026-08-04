@@ -2,9 +2,9 @@
 ## ISO/IEC 27001 + SOC 2 Unified View
 
 **Prepared By:** Mohammad Hesham Wazir  
-**Organization:** EduTrack SaaS Platform (Sample Organization)  
-**Program:** Sohail Smart Solutions Summer Training Program 2026  
-**Week:** 8 – Friday
+**University:** Rochester Institute of Technology (RIT) Dubai  
+**Program:** Bachelor of Science in Cybersecurity  
+**Internship:** Sohail Smart Solutions Summer Training Program 2026  
 
 ---
 
