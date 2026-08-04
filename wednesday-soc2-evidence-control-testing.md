@@ -1,14 +1,9 @@
 # Wednesday — Evidence & Control Testing: Building the SOC 2 Audit Evidence Package
 
-**Prepared By:** Mohammad Hesham Wazir Ali Behlum
-
-**University:** Rochester Institute of Technology (RIT) Dubai
-
-**Program:** Bachelor of Science in Cybersecurity
-
-**Training:** Sohail Smart Solutions Summer Training Program 2026
-
-**Date:** 29 July 2026
+**Prepared By:** Mohammad Hesham Wazir  
+**University:** Rochester Institute of Technology (RIT) Dubai  
+**Program:** Bachelor of Science in Cybersecurity  
+**Internship:** Sohail Smart Solutions Summer Training Program 2026  
 
 ---
 
